@@ -1,0 +1,51 @@
+
+#titulo {
+   color: aqua;
+}
+
+p.Texto {
+    color: red;
+}
+    
+P.Special {
+    color: rgb(0, 26, 255);
+}
+
+div p{
+    color: blueviolet;
+}
+ div h2, div h3{
+    color: brown;
+}
+ *{
+    font-size:24px;
+    color :black;
+}
+/*
+.color{
+    color: #ff0000;
+}
+La  cabra soy yo
+.color {
+    color:rgb(0 , 255, 0);
+}
+
+*/
+.color{
+    /* border: 5px black ; */
+    /*
+    dotted
+    dashed
+    solid
+    double
+    groove
+    ridge
+    inset
+    outsed 
+    none
+    hidden */
+    border-style:solid;
+    border-color:blueviolet;
+    border-radius:15px;
+    border-width:10px;
+}
